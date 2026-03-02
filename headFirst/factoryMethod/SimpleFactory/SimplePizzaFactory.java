@@ -1,4 +1,4 @@
-package headFirst.factoryMethod;
+package headFirst.factoryMethod.SimpleFactory;
 
 /* This is the factory where pizzas are created.
 * It may be the only part on our codebase that refers to concrete pizza classes.

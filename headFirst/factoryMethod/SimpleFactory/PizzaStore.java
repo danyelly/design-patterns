@@ -1,4 +1,4 @@
-package headFirst.factoryMethod;
+package headFirst.factoryMethod.SimpleFactory;
 
 public class PizzaStore {
 

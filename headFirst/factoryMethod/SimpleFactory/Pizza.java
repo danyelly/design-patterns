@@ -1,4 +1,4 @@
-package headFirst.factoryMethod;
+package headFirst.factoryMethod.SimpleFactory;
 
 //this is the final product of the fabric: the PIZZA.
 public abstract class Pizza {
